@@ -1,0 +1,5 @@
+*.log
+*.env
+*.txt
+folder1/
+mylogs.log
